@@ -1,7 +1,3 @@
-// document.addEventListener('DomContentLoaded', function(){
-// Dopisanie eventu "DomContentLoaded" powoduje, że slider nie wyświetla się na stronie
-//(skrypt w pliku HTML umieszczony był w elemencie <head>, a następnie został przeniesiony
-//na koniec <body>).
 
   var buttonNext = document.querySelector('#nextPicture');
   var buttonPrev = document.querySelector('#prevPicture');
@@ -28,5 +24,3 @@
       }
         list[index].classList.toggle("visible");
     });
-
-// });

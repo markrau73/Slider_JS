@@ -2,5 +2,4 @@
 
 Simple slider built with JavaScript.
 
-[Link to live preview]()
-# Slider_JS
+[Link to live preview]( https://markrau73.github.io/Slider_JS/)
